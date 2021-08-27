@@ -24,5 +24,6 @@ hello git hello java hello c
 hello git hello java hello c
 hello git hello java hello c
 hello git hello java hello c master test
+hello git hello java hello c hot-fix test
 hello git hello java hello c
 ddddddddddddddddddddddddddddddddddddddddd hello git hello java hello c
